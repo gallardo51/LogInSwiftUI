@@ -13,7 +13,7 @@ struct LogInSwiftUIApp: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StarterView()
                 .environmentObject(UserManager(user: user))
         }
     }

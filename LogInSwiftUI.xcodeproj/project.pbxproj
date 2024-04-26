@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BA2E28E22BDBB89B00E19E58 /* LogInSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2E28E12BDBB89B00E19E58 /* LogInSwiftUIApp.swift */; };
-		BA2E28E42BDBB89B00E19E58 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2E28E32BDBB89B00E19E58 /* ContentView.swift */; };
+		BA2E28E42BDBB89B00E19E58 /* StarterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2E28E32BDBB89B00E19E58 /* StarterView.swift */; };
 		BA2E28E62BDBB89D00E19E58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA2E28E52BDBB89D00E19E58 /* Assets.xcassets */; };
 		BA2E28E92BDBB89D00E19E58 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA2E28E82BDBB89D00E19E58 /* Preview Assets.xcassets */; };
 		BA2E28F02BDBB97B00E19E58 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2E28EF2BDBB97B00E19E58 /* DataManager.swift */; };
@@ -23,7 +23,7 @@
 /* Begin PBXFileReference section */
 		BA2E28DE2BDBB89B00E19E58 /* LogInSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LogInSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA2E28E12BDBB89B00E19E58 /* LogInSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInSwiftUIApp.swift; sourceTree = "<group>"; };
-		BA2E28E32BDBB89B00E19E58 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BA2E28E32BDBB89B00E19E58 /* StarterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterView.swift; sourceTree = "<group>"; };
 		BA2E28E52BDBB89D00E19E58 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA2E28E82BDBB89D00E19E58 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BA2E28EF2BDBB97B00E19E58 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				BA2E28E12BDBB89B00E19E58 /* LogInSwiftUIApp.swift */,
-				BA2E28E32BDBB89B00E19E58 /* ContentView.swift */,
+				BA2E28E32BDBB89B00E19E58 /* StarterView.swift */,
 				BA2E28FB2BDBC13000E19E58 /* RegisterView.swift */,
 				BA2E28F92BDBBF9900E19E58 /* TimerView.swift */,
 				BA2E28F72BDBBE7E00E19E58 /* ButtonView.swift */,
@@ -160,7 +160,7 @@
 			files = (
 				BA2E28FC2BDBC13000E19E58 /* RegisterView.swift in Sources */,
 				BA2E28F62BDBBCE300E19E58 /* ButtonAppearanceModifier.swift in Sources */,
-				BA2E28E42BDBB89B00E19E58 /* ContentView.swift in Sources */,
+				BA2E28E42BDBB89B00E19E58 /* StarterView.swift in Sources */,
 				BA2E28F02BDBB97B00E19E58 /* DataManager.swift in Sources */,
 				BA2E28F22BDBBA8D00E19E58 /* UserManager.swift in Sources */,
 				BA2E28F42BDBBB4300E19E58 /* TimeCounter.swift in Sources */,
