@@ -15,6 +15,7 @@ struct ButtonAppearanceModifier: ViewModifier {
         content
             .frame(width: 200, height: 60)
             .background(color)
+            .clipShape(RoundedRectangle(cornerRadius: 20))
             .overlay(RoundedRectangle(cornerRadius: 20, style: .continuous).stroke(Color.black, lineWidth: 4)
             )
     }
