@@ -14,6 +14,7 @@
 		BA2E28F02BDBB97B00E19E58 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2E28EF2BDBB97B00E19E58 /* DataManager.swift */; };
 		BA2E28F22BDBBA8D00E19E58 /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2E28F12BDBBA8D00E19E58 /* UserManager.swift */; };
 		BA2E28F42BDBBB4300E19E58 /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2E28F32BDBBB4300E19E58 /* TimeCounter.swift */; };
+		BA2E28F62BDBBCE300E19E58 /* ButtonAppearanceModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2E28F52BDBBCE300E19E58 /* ButtonAppearanceModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		BA2E28EF2BDBB97B00E19E58 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		BA2E28F12BDBBA8D00E19E58 /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
 		BA2E28F32BDBBB4300E19E58 /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
+		BA2E28F52BDBBCE300E19E58 /* ButtonAppearanceModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAppearanceModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BA2E28E32BDBB89B00E19E58 /* ContentView.swift */,
 				BA2E28EF2BDBB97B00E19E58 /* DataManager.swift */,
 				BA2E28F32BDBBB4300E19E58 /* TimeCounter.swift */,
+				BA2E28F52BDBBCE300E19E58 /* ButtonAppearanceModifier.swift */,
 				BA2E28F12BDBBA8D00E19E58 /* UserManager.swift */,
 				BA2E28E52BDBB89D00E19E58 /* Assets.xcassets */,
 				BA2E28E72BDBB89D00E19E58 /* Preview Content */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA2E28F62BDBBCE300E19E58 /* ButtonAppearanceModifier.swift in Sources */,
 				BA2E28E42BDBB89B00E19E58 /* ContentView.swift in Sources */,
 				BA2E28F02BDBB97B00E19E58 /* DataManager.swift in Sources */,
 				BA2E28F22BDBBA8D00E19E58 /* UserManager.swift in Sources */,
